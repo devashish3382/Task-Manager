@@ -1,3 +1,0 @@
-sendgrid
-username:deva3382@hotmail.com
-password:DLfhC3M8%Z$E4Sbef
